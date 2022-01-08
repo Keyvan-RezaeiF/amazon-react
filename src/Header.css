@@ -64,6 +64,10 @@
     align-items: center;
 }
 
+.header_optionBasket > span {
+    font-size: 15px;
+}
+
 .header_basketCount {
     margin: 0 10px 0 5px;
 }
